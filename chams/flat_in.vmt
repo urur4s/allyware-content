@@ -1,0 +1,15 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui/white_additive"
+	"$envmap" "1"
+	"$model" "1"
+	"$receiveflashlight" "1"
+	"$singlepassflashlight" "1"
+	"$flat" "1"
+	"$nocull" "0"
+	"$selfillum" "1"
+	"$halflambert" "1"
+	"$nofog" "0"
+	"$ignorez" "1"
+	"$znearer" "0"
+}
